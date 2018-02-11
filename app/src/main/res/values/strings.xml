@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Week5</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="provide_info_above_to_receive_your_message">Provide info above to receive your message :</string>
+    <string name="name_enter_here">Name enter here</string>
+    <string name="email_enter_here">Email enter here</string>
+</resources>
