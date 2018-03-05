@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var txtName = findViewById<EditText>(R.id.txtName)
+        var txtName = findViewById<TextView>(R.id.txtName)
         var txtEmail = findViewById<EditText>(R.id.txtEmail)
         var txtShow = findViewById<TextView>(R.id.txtShow)
         var rbFemale = findViewById<RadioButton>(R.id.rbFemale)
